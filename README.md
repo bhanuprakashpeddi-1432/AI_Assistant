@@ -1,4 +1,4 @@
-# AI-Powered Code Assistant
+# AI-Powered Code Assistant (Still Under Development)
 
 A modern, full-stack web application that leverages Google's Gemini AI to help developers understand, debug, and translate code in real-time.
 
