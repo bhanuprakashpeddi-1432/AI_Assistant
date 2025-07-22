@@ -289,4 +289,4 @@ MIT License - see LICENSE file for details.
 
 ---
 
-**Built with ❤️ for developers by developers**
+**Built with ❤️ Bhanuprakash Peddi**
